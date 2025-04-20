@@ -7,7 +7,6 @@ A robust Java-based Car Rental Management System that simulates real-world vehic
 - 🔍 View available cars for rent
 - 🧍 Customer registration and data management
 - 📅 Rent and return vehicle management
-- 🗂️ Modular DAO-based architecture (Separation of Concerns)
 - 🛢️ JDBC-based database integration
 - 🧩 Scalable and maintainable codebase
 
